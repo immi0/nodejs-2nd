@@ -1,0 +1,17 @@
+{
+  "name": "chapter7",
+  "version": "1.0.0",
+  "description": "",
+  "main": "connect.auth.js",
+  "dependencies": {
+    "connect": "^1.8.5",
+    "ejs": "^2.6.1",
+    "jade": "^0.20.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
